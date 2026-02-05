@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+Networksecurity.egg-info/PKG-INFO
+Networksecurity.egg-info/SOURCES.txt
+Networksecurity.egg-info/dependency_links.txt
+Networksecurity.egg-info/requires.txt
+Networksecurity.egg-info/top_level.txt
