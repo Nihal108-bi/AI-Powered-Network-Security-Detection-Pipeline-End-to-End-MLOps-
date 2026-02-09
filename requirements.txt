@@ -13,4 +13,4 @@ FILE
 uvicorn
 python-multipart
 
--e .
+#-e .
