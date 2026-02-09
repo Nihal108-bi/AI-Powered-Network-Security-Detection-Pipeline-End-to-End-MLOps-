@@ -9,7 +9,7 @@ mlflow
 pyaml
 dagshub
 fastapi
-FILE
+python-magic
 uvicorn
 python-multipart
 
